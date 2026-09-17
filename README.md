@@ -175,6 +175,7 @@ AND firstname LIKE '%e%';
 | 19  | Nachname, von Mena nach Reykholar Airport, Vorname 2 Zeichen         | MALONE      |
 | 20  | ID des Passagiers mit doppel r und doppel t im Nachnamen, Sitz 10–20 | 1286        |
 | 21  | Land, Flugnummer = Code für "Not Found" (404)                        | PF          |
+|     | Lösungswort:                                                         | Steel       |
 
 ---
 
